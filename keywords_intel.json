@@ -1,9 +1,4 @@
 {
- "?": {
-  "anuncios": 97,
-  "termos": [],
-  "frases": []
- },
  "BR": {
   "anuncios": 240,
   "termos": [
@@ -130,19 +125,19 @@
     13
    ],
    [
-    "diminuir dores,",
+    "específico mulheres",
     12
    ],
    [
-    "corpo emagrecer.",
+    "vem desafio",
     12
    ],
    [
-    "pilates casa,",
+    "mulheres após",
     12
    ],
    [
-    "casa, específico",
+    "aulas vivo",
     12
    ],
    [
@@ -154,19 +149,11 @@
     12
    ],
    [
-    "vem desafio",
-    12
-   ],
-   [
     "fortalecer corpo",
     12
    ],
    [
-    "semana aulas",
-    12
-   ],
-   [
-    "vivo pilates",
+    "casa, específico",
     12
    ],
    [
@@ -174,20 +161,278 @@
     12
    ],
    [
-    "emagrecer. clique",
-    12
-   ],
-   [
-    "específico mulheres",
-    12
-   ],
-   [
     "após anos.",
     12
    ],
    [
-    "mulheres após",
+    "emagrecer. clique",
     12
+   ],
+   [
+    "dores, fortalecer",
+    12
+   ],
+   [
+    "semana aulas",
+    12
+   ],
+   [
+    "pilates casa,",
+    12
+   ],
+   [
+    "diminuir dores,",
+    12
+   ]
+  ]
+ },
+ "MX": {
+  "anuncios": 36,
+  "termos": [
+   [
+    "días",
+    9
+   ],
+   [
+    "solo",
+    8
+   ],
+   [
+    "más",
+    7
+   ],
+   [
+    "casa",
+    5
+   ],
+   [
+    "tus",
+    5
+   ],
+   [
+    "peso",
+    4
+   ],
+   [
+    "bajar",
+    4
+   ],
+   [
+    "desde",
+    4
+   ],
+   [
+    "horas",
+    4
+   ],
+   [
+    "reto",
+    4
+   ],
+   [
+    "gratis",
+    4
+   ],
+   [
+    "aplicación",
+    3
+   ],
+   [
+    "desafío",
+    3
+   ],
+   [
+    "resultados",
+    3
+   ],
+   [
+    "plan",
+    3
+   ],
+   [
+    "método",
+    3
+   ],
+   [
+    "ver",
+    3
+   ],
+   [
+    "está",
+    3
+   ],
+   [
+    "forma",
+    3
+   ],
+   [
+    "todo",
+    3
+   ],
+   [
+    "hasta",
+    3
+   ],
+   [
+    "energía",
+    3
+   ],
+   [
+    "entrenador",
+    2
+   ],
+   [
+    "personal",
+    2
+   ],
+   [
+    "calistenia",
+    2
+   ]
+  ],
+  "frases": [
+   [
+    "bajar peso",
+    4
+   ]
+  ]
+ },
+ "US": {
+  "anuncios": 61,
+  "termos": [
+   [
+    "shop",
+    9
+   ],
+   [
+    "now",
+    8
+   ],
+   [
+    "support",
+    7
+   ],
+   [
+    "don",
+    7
+   ],
+   [
+    "every",
+    6
+   ],
+   [
+    "here",
+    6
+   ],
+   [
+    "when",
+    6
+   ],
+   [
+    "start",
+    6
+   ],
+   [
+    "how",
+    6
+   ],
+   [
+    "day",
+    6
+   ],
+   [
+    "one",
+    5
+   ],
+   [
+    "challenge",
+    5
+   ],
+   [
+    "free",
+    5
+   ],
+   [
+    "today",
+    5
+   ],
+   [
+    "plan",
+    4
+   ],
+   [
+    "health",
+    4
+   ],
+   [
+    "pressure",
+    4
+   ],
+   [
+    "where",
+    4
+   ],
+   [
+    "blood",
+    4
+   ],
+   [
+    "stamina",
+    4
+   ],
+   [
+    "way",
+    4
+   ],
+   [
+    "days",
+    4
+   ],
+   [
+    "weeks",
+    4
+   ],
+   [
+    "about",
+    4
+   ],
+   [
+    "time",
+    4
+   ]
+  ],
+  "frases": [
+   [
+    "every day",
+    3
+   ],
+   [
+    "stamina heart",
+    3
+   ],
+   [
+    "support stamina",
+    3
+   ],
+   [
+    "health every",
+    3
+   ],
+   [
+    "know how",
+    3
+   ],
+   [
+    "heart health",
+    3
+   ],
+   [
+    "blood pressure",
+    3
+   ],
+   [
+    "people say",
+    3
    ]
   ]
  }

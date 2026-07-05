@@ -1,0 +1,161 @@
+{
+ "pages": {
+  "801957383011565": {
+   "name": "Dr. Renan Botelho - Emagrecimento Feminino",
+   "nicho": "emagrecimento 45+",
+   "tipo": "info",
+   "series": {
+    "2026-07-05": 364
+   }
+  },
+  "964720873382463": {
+   "name": "DR. Renan Botelho - Desafio Jejum 5em7",
+   "nicho": "emagrecimento/jejum R$37",
+   "tipo": "info",
+   "series": {
+    "2026-07-05": 287
+   }
+  },
+  "378128628724966": {
+   "name": "Renan B. (organico/receitas)",
+   "nicho": "emagrecimento topo de funil",
+   "tipo": "info",
+   "series": {
+    "2026-07-05": 281
+   }
+  },
+  "2016271568674266": {
+   "name": "Lays Sant'anna (pilates 50+)",
+   "nicho": "emagrecimento 50+ desafio",
+   "tipo": "info",
+   "series": {
+    "2026-07-05": 262
+   }
+  },
+  "107376773956711": {
+   "name": "Mulher em Forma",
+   "nicho": "emagrecimento quiz",
+   "tipo": "info",
+   "series": {
+    "2026-07-05": 178
+   }
+  },
+  "284831244705211": {
+   "name": "Nutri Marina Cardoso",
+   "nicho": "menopausa",
+   "tipo": "info",
+   "series": {
+    "2026-07-05": 28
+   }
+  },
+  "849234701614193": {
+   "name": "Nutri Marina Cardoso 03",
+   "nicho": "menopausa",
+   "tipo": "info",
+   "series": {
+    "2026-07-05": 10
+   }
+  },
+  "100702226294303": {
+   "name": "Always FIT - Saude/Longevidade",
+   "nicho": "nutra multi",
+   "tipo": "nutra",
+   "series": {
+    "2026-07-05": 2305
+   }
+  },
+  "106914555803106": {
+   "name": "Always FIT - Saude",
+   "nicho": "nutra multi",
+   "tipo": "nutra",
+   "series": {
+    "2026-07-05": 245
+   }
+  },
+  "122683057393555": {
+   "name": "Always Fit Suplementos",
+   "nicho": "nutra memoria",
+   "tipo": "nutra",
+   "series": {
+    "2026-07-05": 575
+   }
+  },
+  "315156238629248": {
+   "name": "Vhita Brasil",
+   "nicho": "nutra catalogo",
+   "tipo": "nutra",
+   "series": {
+    "2026-07-05": 410
+   }
+  },
+  "948640885005838": {
+   "name": "Neckzen Massager",
+   "nicho": "zumbido fisico",
+   "tipo": "fisico",
+   "series": {
+    "2026-07-05": 68
+   }
+  },
+  "109591248232579": {
+   "name": "Dra. Andrezza Bastos Maciel",
+   "nicho": "zumbido clinica",
+   "tipo": "clinica",
+   "series": {
+    "2026-07-05": 10
+   }
+  },
+  "405265222669225": {
+   "name": "Instituto Machado Cuiaba",
+   "nicho": "zumbido clinica",
+   "tipo": "clinica",
+   "series": {
+    "2026-07-05": 7
+   }
+  }
+ },
+ "snapshots": [
+  {
+   "date": "2026-07-05",
+   "pages": 14
+  }
+ ],
+ "last_discovery": "2026-07-05",
+ "discovered": [
+  {
+   "id": "100535935119256",
+   "name": "Eduardo Claas",
+   "ativos": 235,
+   "date": "2026-07-05"
+  },
+  {
+   "id": "420362471161663",
+   "name": "21 Day Challenge",
+   "ativos": 344,
+   "date": "2026-07-05"
+  },
+  {
+   "id": "183545358464657",
+   "name": "Paramount+",
+   "ativos": 688,
+   "date": "2026-07-05"
+  },
+  {
+   "id": "945357715322226",
+   "name": "21 Day Calisthenics Challenge",
+   "ativos": 132,
+   "date": "2026-07-05"
+  },
+  {
+   "id": "370932927114",
+   "name": "Onodera Estética",
+   "ativos": 43,
+   "date": "2026-07-05"
+  },
+  {
+   "id": "104096412629936",
+   "name": "Hallow Brasil",
+   "ativos": 198,
+   "date": "2026-07-05"
+  }
+ ]
+}

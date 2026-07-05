@@ -63,69 +63,6 @@
    },
    "mercado": "BR"
   },
-  "100702226294303": {
-   "name": "Always FIT - Saude/Longevidade",
-   "nicho": "nutra multi",
-   "tipo": "nutra",
-   "series": {
-    "2026-07-05": 2305
-   },
-   "mercado": "BR"
-  },
-  "106914555803106": {
-   "name": "Always FIT - Saude",
-   "nicho": "nutra multi",
-   "tipo": "nutra",
-   "series": {
-    "2026-07-05": 245
-   },
-   "mercado": "BR"
-  },
-  "122683057393555": {
-   "name": "Always Fit Suplementos",
-   "nicho": "nutra memoria",
-   "tipo": "nutra",
-   "series": {
-    "2026-07-05": 575
-   },
-   "mercado": "BR"
-  },
-  "315156238629248": {
-   "name": "Vhita Brasil",
-   "nicho": "nutra catalogo",
-   "tipo": "nutra",
-   "series": {
-    "2026-07-05": 408
-   },
-   "mercado": "BR"
-  },
-  "948640885005838": {
-   "name": "Neckzen Massager",
-   "nicho": "zumbido fisico",
-   "tipo": "fisico",
-   "series": {
-    "2026-07-05": 68
-   },
-   "mercado": "BR"
-  },
-  "109591248232579": {
-   "name": "Dra. Andrezza Bastos Maciel",
-   "nicho": "zumbido clinica",
-   "tipo": "clinica",
-   "series": {
-    "2026-07-05": 10
-   },
-   "mercado": "BR"
-  },
-  "405265222669225": {
-   "name": "Instituto Machado Cuiaba",
-   "nicho": "zumbido clinica",
-   "tipo": "clinica",
-   "series": {
-    "2026-07-05": 7
-   },
-   "mercado": "BR"
-  },
   "100535935119256": {
    "name": "Eduardo Claas",
    "nicho": "descoberto (low ticket BR)",
@@ -133,15 +70,6 @@
    "mercado": "BR",
    "series": {
     "2026-07-05": 235
-   }
-  },
-  "420362471161663": {
-   "name": "21 Day Challenge",
-   "nicho": "descoberto (low ticket BR)",
-   "tipo": "novo",
-   "mercado": "BR",
-   "series": {
-    "2026-07-05": 341
    }
   },
   "945357715322226": {
@@ -153,51 +81,6 @@
     "2026-07-05": 133
    }
   },
-  "370932927114": {
-   "name": "Onodera Estética",
-   "nicho": "descoberto (low ticket BR)",
-   "tipo": "novo",
-   "mercado": "BR",
-   "series": {
-    "2026-07-05": 43
-   }
-  },
-  "107940537227344": {
-   "name": "RYZE Superfoods",
-   "nicho": "nutra cafe cogumelo",
-   "tipo": "nutra",
-   "mercado": "US",
-   "series": {
-    "2026-07-05": 5387
-   }
-  },
-  "942830708918752": {
-   "name": "The Health Haven",
-   "nicho": "afiliado protocolos saude",
-   "tipo": "info",
-   "mercado": "US",
-   "series": {
-    "2026-07-05": 2853
-   }
-  },
-  "104116678816422": {
-   "name": "Tori Repa",
-   "nicho": "emagrecimento feminino",
-   "tipo": "info",
-   "mercado": "MX",
-   "series": {
-    "2026-07-05": 1426
-   }
-  },
-  "218077708066307": {
-   "name": "Essential Health Finds",
-   "nicho": "afiliado protocolos saude",
-   "tipo": "info",
-   "mercado": "US",
-   "series": {
-    "2026-07-05": 745
-   }
-  },
   "550709181466884": {
    "name": "Olivia Harper Nutritionist",
    "nicho": "nutricao/emagrecimento",
@@ -205,24 +88,6 @@
    "mercado": "US",
    "series": {
     "2026-07-05": 549
-   }
-  },
-  "966175593248497": {
-   "name": "American Health Support Community",
-   "nicho": "afiliado saude",
-   "tipo": "info",
-   "mercado": "US",
-   "series": {
-    "2026-07-05": 308
-   }
-  },
-  "116700222203350": {
-   "name": "BetterMe",
-   "nicho": "app fitness gigante",
-   "tipo": "app",
-   "mercado": "US",
-   "series": {
-    "2026-07-05": 229
    }
   },
   "886987544495913": {
